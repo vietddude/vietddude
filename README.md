@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vietdedude
 - 👀 I’m interested in coding, reading and playing games.
-- 🌱 I’m currently learning JavaScript and I want to make a app using React Native
+- 🌱 I’m currently learning JavaScript and I want to make an app using React Native.
 - 📫 Reach me at fb.com/nthanhkta
 
 <!---
