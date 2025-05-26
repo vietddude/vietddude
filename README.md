@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://giphy.com/explore/odd-future-stickers](https://media3.giphy.com/media/W0vkzBn05Fli8/giphy.gif?cid=6c09b952ugqkt1fakaai48uh3u9m0wcj712y5g0mopoz788b&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="300" alt="Tyler the Creator gif">
+  <img src="https://media3.giphy.com/media/W0vkzBn05Fli8/giphy.gif?cid=6c09b952ugqkt1fakaai48uh3u9m0wcj712y5g0mopoz788b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300" alt="Tyler the Creator gif">
 </p>
 
 ---
